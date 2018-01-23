@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MediaLoader.iml" filepath="$PROJECT_DIR$/.idea/MediaLoader.iml" />
+      <module fileurl="file://E:\mywork\MediaLoader\MediaLoader.iml" filepath="E:\mywork\MediaLoader\MediaLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\mywork\MediaLoader\app\app.iml" filepath="E:\mywork\MediaLoader\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib_medialoader/medialoader.iml" filepath="$PROJECT_DIR$/lib_medialoader/medialoader.iml" />
+      <module fileurl="file://E:\mywork\MediaLoader\medialoader\medialoader.iml" filepath="E:\mywork\MediaLoader\medialoader\medialoader.iml" />
+    </modules>
+  </component>
+</project>
