@@ -161,6 +161,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
     private void loadVideos() {
         MediaLoader.getLoader().loadVideos(this, new OnVideoLoaderCallBack() {
             @Override
